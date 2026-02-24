@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Fullstack & Blockchain Developer** passionate about building decentralized solutions.
+I'm a **Fullstack & Blockchain & AI Developer** passionate about building decentralized solutions.
 
 ## 🚀 Skills
 
